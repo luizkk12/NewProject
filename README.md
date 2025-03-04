@@ -64,8 +64,8 @@ Adicionar o **Sirius** ao seu servidor do Discord é muito fácil! Siga os passo
 
 ## 🚀 Tecnologias Utilizadas  
 
-🔹 **Linguagem:** Python 🐍  
-🔹 **Bibliotecas:** discord.py, requests, matplotlib, pillow  
+🔹 **Linguagem:** JavaScript (Node.js) 🟩  
+🔹 **Bibliotecas:** discord.js, axios, canvas, dotenv  
 🔹 **APIs Integradas:** NASA API, OpenWeather, SpaceX API  
 
 ---
