@@ -23,7 +23,7 @@ Bem-vindo ao **Sirius**, o bot de astronomia definitivo para Discord! 🌠 Se vo
 Adicionar o **Sirius** ao seu servidor do Discord é muito fácil! Siga os passos abaixo:  
 
 1️⃣ **Clique no link de convite:**  
-[🔗 Adicionar Sirius ao seu servidor](https://discord.com/oauth2/authorize?client_id=SEU_CLIENT_ID&permissions=BOT_PERMISSIONS&scope=bot%20applications.commands)  
+[🔗 Adicionar Sirius ao seu servidor](https://discord.com/oauth2/authorize?client_id=1316094194254610542&permissions=8&integration_type=0&scope=bot)  
 
 2️⃣ **Selecione o seu servidor** e clique em "Continuar".  
 
