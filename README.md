@@ -40,19 +40,22 @@ Adicionar o **Sirius** ao seu servidor do Discord é muito fácil! Siga os passo
 - `/about` – Saiba mais sobre o projeto.  
 
 ### 🌠 Comandos astronômicos  
-- `/planeta <nome>` – Exibe informações detalhadas sobre um planeta.  
-- `/estrela <nome>` – Mostra dados sobre estrelas famosas.  
+- `/planetas <nome>` – Exibe informações detalhadas sobre um planeta.  
+- `/estrelas <nome>` – Mostra dados sobre estrelas famosas.  
 - `/lua` – Exibe a fase atual da Lua.  
 - `/ceu` – Mostra as constelações visíveis na sua região.  
 
 ### 📡 Comandos de imagens e dados  
 - `/nasa` – Retorna a foto do dia da NASA.  
 - `/hubble` – Mostra imagens impressionantes do Telescópio Espacial Hubble.  
-- `/spacex` – Atualizações sobre lançamentos da SpaceX.  
 
 ### 🛸 Comandos interativos  
 - `/quiz` – Teste seus conhecimentos sobre o universo!  
 - `/curiosidade` – Receba um fato interessante sobre o espaço.  
+
+### ⛅️ Comandos Meteorológicos 
+
+- `/clima <cidade/estado/país>` - Veja o clima de um local.
 
 ---
 
